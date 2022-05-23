@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppsInApps</string>
+    <string name="homepage_title">Try My Apps</string>
+    <string name="counter_text">Counter App</string>
+    <string name="counter_value">0</string>
+    <string name="increment_text">Increment</string>
+    <string name="decrement_text">Decrement</string>
+    
+    <!--    Clock Strings -->
+    <string name="clock_text">Clock App</string>
+    <string name="time_text">Time</string>
+</resources>
